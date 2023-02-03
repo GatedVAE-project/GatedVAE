@@ -1,4 +1,4 @@
-Text of twitter dataset: 
+Text of twitter dataset: train_posts.text text_posts.txt
 
 Image of twitter dataset: https://drive.google.com/file/d/1W5poOHGMeg2XgxVhfzK6V_-XK9X39vCv/view
 
