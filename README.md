@@ -13,5 +13,5 @@ For any questions regarding this repository or the paper, please contact Yimeng 
  
 - Full weibo dataset: You can find it at https://drive.google.com/file/d/14VQ7EWPiFeGzxp3XC2DeEHi-BEisDINn/view?usp=sharing. (Approximately 1.3GB)
 
-## Running MMVAE
+## Running GatedVAE
 Simply run the cells in `GatedVAE-{Twitter|Weibo}.ipynb` one by one.
